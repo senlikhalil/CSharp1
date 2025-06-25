@@ -1,0 +1,14 @@
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\bin\Debug\net8.0\01_MainSubjects.exe
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\bin\Debug\net8.0\01_MainSubjects.deps.json
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\bin\Debug\net8.0\01_MainSubjects.runtimeconfig.json
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\bin\Debug\net8.0\01_MainSubjects.dll
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\bin\Debug\net8.0\01_MainSubjects.pdb
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.AssemblyInfo.cs
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.dll
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\refint\01_MainSubjects.dll
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.pdb
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.genruntimeconfig.cache
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\ref\01_MainSubjects.dll
