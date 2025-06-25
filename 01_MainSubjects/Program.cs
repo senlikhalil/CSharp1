@@ -32,7 +32,7 @@
             #region String Değişkenler
 
             ////string
-            ////Değişkentürü değişkenadı
+            ////Değişkentürü değişken adı
 
 
 

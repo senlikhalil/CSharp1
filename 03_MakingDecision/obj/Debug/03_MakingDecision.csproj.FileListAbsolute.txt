@@ -5,3 +5,4 @@ C:\Users\Victus\source\repos\CSharp1\03_MakingDecision\bin\Debug\03_MakingDecisi
 C:\Users\Victus\source\repos\CSharp1\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
 C:\Users\Victus\source\repos\CSharp1\03_MakingDecision\obj\Debug\03_MakingDecision.exe
 C:\Users\Victus\source\repos\CSharp1\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
+C:\Users\Victus\source\repos\CSharp1\03_MakingDecision\obj\Debug\03_MakingDecision.exe.config
