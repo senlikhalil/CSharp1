@@ -12,3 +12,4 @@ C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\refint\01_
 C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.pdb
 C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.genruntimeconfig.cache
 C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\ref\01_MainSubjects.dll
+C:\Users\Victus\source\repos\CSharp1\01_MainSubjects\obj\Debug\net8.0\01_MainSubjects.sourcelink.json

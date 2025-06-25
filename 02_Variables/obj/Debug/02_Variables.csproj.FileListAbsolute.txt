@@ -5,4 +5,3 @@ C:\Users\Victus\source\repos\CSharp1\02_Variables\obj\Debug\02_Variables.csproj.
 C:\Users\Victus\source\repos\CSharp1\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
 C:\Users\Victus\source\repos\CSharp1\02_Variables\obj\Debug\02_Variables.exe
 C:\Users\Victus\source\repos\CSharp1\02_Variables\obj\Debug\02_Variables.pdb
-C:\Users\Victus\source\repos\CSharp1\02_Variables\obj\Debug\02_Variables.exe.config
