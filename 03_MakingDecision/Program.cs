@@ -10,11 +10,11 @@ namespace _03_MakingDecision
     {
         static void Main(string[] args)
         {
-            if (true)
-            {
-                Console.WriteLine("halil");
-            }
-            #region IF ELSE
+            #region
+
+
+
+
 
             //Console.Write("Lütfen Şifreyi Giriniz:");
             //string password;
