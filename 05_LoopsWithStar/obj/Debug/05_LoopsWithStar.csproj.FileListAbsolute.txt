@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.exe.config
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.exe
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\bin\Debug\05_LoopsWithStar.pdb
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.exe
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.pdb
+C:\Users\Victus\source\repos\CSharp1\05_LoopsWithStar\obj\Debug\05_LoopsWithStar.exe.config
