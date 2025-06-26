@@ -84,6 +84,7 @@ namespace _02_Variables
 
 
 
+
             #region Char Değişkenler
 
             //char symbol;
@@ -200,7 +201,6 @@ namespace _02_Variables
 
 
             #endregion
-
 
 
 

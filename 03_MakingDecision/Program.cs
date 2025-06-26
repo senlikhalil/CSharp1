@@ -153,6 +153,7 @@ namespace _03_MakingDecision
             #endregion
 
 
+
             #region Mod İşlemleri
 
             //int number;
@@ -182,6 +183,7 @@ namespace _03_MakingDecision
             #endregion
 
 
+
             #region Char Dğişkenler İle Karar Yapıları
 
 
@@ -201,6 +203,7 @@ namespace _03_MakingDecision
 
 
             #endregion
+
 
 
             #region Örnek Proje
@@ -280,6 +283,7 @@ namespace _03_MakingDecision
             #endregion
 
 
+
             #region Switch Case
 
             //Console.Write("Bir Ay Giriniz: ");
@@ -321,6 +325,7 @@ namespace _03_MakingDecision
 
 
             #endregion
+
 
 
             #region Switch Case Hesap Makinesi
