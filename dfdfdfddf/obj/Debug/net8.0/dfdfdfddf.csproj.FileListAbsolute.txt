@@ -1,0 +1,15 @@
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.AssemblyInfo.cs
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.sourcelink.json
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\bin\Debug\net8.0\dfdfdfddf.exe
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\bin\Debug\net8.0\dfdfdfddf.deps.json
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\bin\Debug\net8.0\dfdfdfddf.runtimeconfig.json
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\bin\Debug\net8.0\dfdfdfddf.dll
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\bin\Debug\net8.0\dfdfdfddf.pdb
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.dll
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\refint\dfdfdfddf.dll
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.pdb
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\dfdfdfddf.genruntimeconfig.cache
+C:\Users\Victus\source\repos\CSharp1\dfdfdfddf\obj\Debug\net8.0\ref\dfdfdfddf.dll

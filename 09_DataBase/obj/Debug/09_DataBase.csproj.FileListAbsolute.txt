@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\bin\Debug\09_DataBase.exe.config
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\bin\Debug\09_DataBase.exe
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\bin\Debug\09_DataBase.pdb
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\obj\Debug\09_DataBase.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\obj\Debug\09_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\obj\Debug\09_DataBase.exe
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\obj\Debug\09_DataBase.pdb
+C:\Users\Victus\source\repos\CSharp1\09_DataBase\obj\Debug\09_DataBase.exe.config
